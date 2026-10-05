@@ -51,6 +51,7 @@ Conceptual frames for thinking about AI products.
 
 - <a href="https://www.svpg.com/ai-product-management-2-years-in/"><img src="./text/ai-product-management-2-years-in.svg" align="absmiddle" alt="AI Product Management 2 Years In" /></a> by Marty Cagan — Retrospective on what's changed in AI PM.
 - <a href="https://platform.claude.com/docs/en/home"><img src="./text/building-with-claude.svg" align="absmiddle" alt="Building with Claude" /></a> (Anthropic) — First-principles design around LLMs.
+- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) — Collection of 44 free AI agent blueprints for product management, each with prompt, eval rubric, and ship gate.
 - <a href="https://www.lennysnewsletter.com/t/ai"><img src="./text/lennys-ai-tag.svg" align="absmiddle" alt="Lenny's AI Tag" /></a> — Tagged archive of Lenny's AI-specific essays.
 - <a href="https://www.latent.space/p/ai-engineer"><img src="./text/the-rise-of-the-ai-engineer.svg" align="absmiddle" alt="The Rise of the AI Engineer" /></a> — On the AI engineer role PMs partner with.
 
